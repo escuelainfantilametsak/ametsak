@@ -98,5 +98,6 @@ export default {
   ventajasText:"Abantailak",
   correoEnviadoText: "emandako posta elektronikoa",
   texto1Index:"heziketa eta asistentziala zentroa da umeentzat Eusko Jaurlaritzak baimendutako instalazioekiko 0 eta 3 urte bitartean.",
-  texto2Index:"Hezitzaileen printzipal objektiboa niños,por-en ongizatea da hura, eragingo dugu txikienak senti daitezela seguru, maite eta bere potentzial guztia gara dezatela kontaktu txeratsuari garrantzi handiagoa emanez onartuta"
+  texto2Index:"Hezitzaileen printzipal objektiboa niños,por-en ongizatea da hura, eragingo dugu txikienak senti daitezela seguru, maite eta bere potentzial guztia gara dezatela kontaktu txeratsuari garrantzi handiagoa emanez onartuta",
+  blogText:"Blog",
   }
