@@ -1,0 +1,242 @@
+.h1 {
+    color:#633287;
+    margin-top: 10px;
+    font-size: 34px;
+    font-weight: 200;
+    font-family: 'Neucha', cursive;
+}
+.logo{
+    width: 215px;
+}
+
+.container
+{
+  /* min-height: 65vh;
+  display: flex;*/
+  justify-content: center; 
+  align-items: center;
+  text-align: center;
+  margin-bottom: 10px
+
+}
+
+.navy-line {
+    width: 60px;
+    height: 1px;
+    margin: 60px auto 0;
+    border-bottom: 2px solid #8fbd43;
+}
+
+.subtitle
+{
+  font-weight: 300;
+  font-size: 42px;
+  color: #ffb300;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+  font-family: 'Fredoka One', cursive;
+}
+
+.img-small {
+    height: 88px;
+    width: 88px;
+}
+
+.form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+  }
+  .form-signin .checkbox {
+    font-weight: 400;
+  }
+  .form-signin .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .btnlogin {
+    color: #ffffff ;
+    background-color: #6a1b9a;
+    background-image: none;
+    border-color: #6a1b9a;
+}
+
+.btnlogin:hover {
+    color: #6a1b9a;;
+    background-color: #9cfc97;
+    border-color:#9cfc97;
+}
+.resaltar{    
+    color: #6a1b9a;
+    font-family: 'Fredoka One', cursive;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.resaltarVerde{    
+  color: #9cfc97;
+  font-family: 'Fredoka One', cursive;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.resaltarWhite{    
+  color: white;
+  font-family: 'Fredoka One', cursive;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.resaltarLink{    
+  color: #6a1b9a;
+  font-family: 'Fredoka One', cursive;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.resaltarLink:hover{    
+  color: #00e676;
+  font-family: 'Fredoka One', cursive;
+  margin-left: 5px;
+  margin-right: 5px;
+  text-decoration: none;
+}
+
+.listcustom {
+  margin-bottom: 15px;
+}
+
+.linkmapacontacto:hover{
+color: #00e676;
+font-weight: bold;
+}
+
+.linkmapacontacto{
+color: #6a1b9a;
+
+}
+
+.linkCalendario:hover{
+  color: #00e676;
+  font-weight: bold;
+  }
+  
+.linkCalendario{
+  color: #6a1b9a;
+  margin-left: 10px;
+  }
+
+.fredaFont{
+  font-family: 'Fredoka One', cursive;
+}
+
+.card-pricing.popular {
+  z-index: 1;
+  border: 3px solid #9cfc97;
+}
+.card-pricing .list-unstyled li {
+  padding: .5rem 0;
+  color: #6c757d;
+}
+.bg-ametsakVerde{
+  background-color:#9cfc97;
+}
+
+.card-body a:hover{
+  color: #007bff;
+  font-weight: bold;
+}
+.card-body a:link {
+  text-decoration: none;
+}
+
+.morado{
+  background-color:  #633287;
+}
+
+
+.mb-60 {
+  margin-bottom: 60px;
+}
+.services-inner {
+  border: 2px solid #7f6aa8;
+  margin-left: 35px;
+  transition: .3s;
+}
+.our-services-img {
+  float: left;
+  margin-left: -36px;
+  margin-right: 22px;
+  margin-top: 28px;
+}
+.our-services-text {
+  padding-right: 10px;
+}
+.our-services-text {
+  overflow: hidden;
+  padding: 28px 0 25px;
+}
+.our-services-text h4 {
+  color: #222222;
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  padding-bottom: 10px;
+  position: relative;
+  text-transform: uppercase;
+}
+.our-services-text h4::before {
+  background: #9cfc97 none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 35px;
+}
+.our-services-wrapper:hover .services-inner {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid transparent;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+}
+.our-services-text p {
+  margin-bottom: 0;
+}
+p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 26px;
+  color: #666;
+  margin-bottom: 15px;
+}
+
+.linkSolitudMatricula {
+  color: #6a1b9a;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.linkSolitudMatricula:hover{
+  color: #00e676;
+  font-weight: bold;
+  text-decoration: none;
+}
+  
+

@@ -1,0 +1,24 @@
+{
+  "name": "amestsakweb",
+  "version": "1.0.0",
+  "description": "Ametsak",
+  "author": "Julen Godoy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/google-analytics": "^2.2.0",
+    "cross-env": "^5.2.0",
+    "firebase": "^5.9.3",
+    "nuxt": "^2.4.0",
+    "nuxt-i18n": "^5.8.5",
+    "vue2-google-maps": "^0.10.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
