@@ -82,6 +82,12 @@ export default {
         }       
       ],
       lazy: true,
+      pages: {
+        'evento/index': {
+          es: '/services',
+          eus: '/offres',
+        }
+      },
       langDir: 'lang/'
       
     }],

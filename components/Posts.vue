@@ -13,7 +13,7 @@
         <div class="container">
             <div class="row">
 
-            <div class="col-6"  v-for="post in posts.slice().reverse()" :key="post.id">
+            <div class="col-md-6"  v-for="post in posts.slice().reverse()" :key="post.id">
                     <div class="card mt-3 tab-card">
                         <div class="card-header tab-card-header">
                         <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">

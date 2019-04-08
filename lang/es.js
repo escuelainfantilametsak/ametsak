@@ -98,7 +98,8 @@ export default {
     ventajasText:"Ventajas",
     correoEnviadoText: "Correo Enviado",
     texto1Index:"es un centro educativo y asistencial para niños de 0 a 3 años con instalaciones autorizadas por el Gobierno Vasco.",
-    texto2Index:"El principal objetivo de las educadoras es el bienestar de los niños,por ello, haremos que los más pequeños se sientan seguros, queridos y aceptados dando mayor importancia al contacto afectivo para que desarrollen todo su potencial"
+    texto2Index:"El principal objetivo de las educadoras es el bienestar de los niños,por ello, haremos que los más pequeños se sientan seguros, queridos y aceptados dando mayor importancia al contacto afectivo para que desarrollen todo su potencial",
+    blogText:"Blog",
 
 
 

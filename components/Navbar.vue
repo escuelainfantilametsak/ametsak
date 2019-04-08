@@ -21,7 +21,8 @@
                 <nuxt-link class="nav-link" :to="localePath('equipo')"> {{ $t('navEqu') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('servicios')"> {{ $t('navSer') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('instalaciones')"> {{ $t('navIns') }}</nuxt-link>
-                 <nuxt-link class="nav-link" :to="localePath('Evento')"> {{ $t('navIns') }}</nuxt-link>
+                <nuxt-link class="nav-link" :to="localePath('evento')"> {{ $t('blogText') }}</nuxt-link>
+                
                 <!--<nuxt-link class="nav-link" :to="localePath('login')"> {{ $t('navLog') }}</nuxt-link>-->
         </nav>
         

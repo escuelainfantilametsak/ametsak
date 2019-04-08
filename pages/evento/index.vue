@@ -12,8 +12,8 @@ import Posts from '~/components/Posts.vue'
 export default {
   components: {
     Posts
-  },
-  nuxtI18n: false
+  }
+  //nuxtI18n: false
   // ...
 }
 </script>
