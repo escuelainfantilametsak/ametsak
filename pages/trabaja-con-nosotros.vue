@@ -18,6 +18,26 @@
       
 
         <div class="col-md-8">
+
+
+                <div class="card card-pricing popular shadow text-center px-3 mb-4">
+                    <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-ametsakVerde text-black shadow-sm">2 Puestos Disponibles</span> 
+                     
+                    <p class="text-justify">Tenemos 2 puestos vacantes a jornada completa para trabajar en la Escuela Infantil Ametsak. Envianos un correo a nuestro email y disponibilidad para empezar a trabajar.</p> 
+
+                     <ul style="list-style-type: none">
+                        <li><span class="resaltar">1 Puesto: 9:00 - 18:00</span><br>                       
+                        </li>
+                        <li><span class="resaltar">1 Puesto: 8:00 - 17:00</span><br>
+                        </li>
+                           
+                        
+                    </ul>
+
+                  </div>
+
+
+
             <p class="text-justify">{{ $t('trabajaMatTex1') }} <a href="mailto:hola@escuelainfantilametsak.com?subject=CV: ">CV Ametsak</a> </p>            
             <p class="text-justify">{{ $t('trabajaMatTex2') }}</p>
             <p class="text-justify">{{ $t('trabajaMatTex3') }}</p>

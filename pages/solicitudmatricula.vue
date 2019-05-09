@@ -58,7 +58,7 @@
             <p class="media-body pb-3 mb-0  lh-125 border-bottom border-gray">            
               {{ $t('solMatTex10') }}
             </p>
-            <a href="SOLICITUD_DE_MATRICULAS.pdf" class="linkmapacontacto"><i class="far fa-file-pdf fa-2x"></i></a>
+            <a href="/formularioonline" class="linkmapacontacto"><i class="far fa-file-pdf fa-2x"></i></a>
           </div>
           <!-- <small class="d-block text-right mt-3">
             <a href="#">All updates</a>

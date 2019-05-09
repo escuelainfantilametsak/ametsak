@@ -21,7 +21,7 @@ export default {
     normasTitle:"Normas",
     normasSubTitle:"Periodo de adaptacion",
     normasText1:"Esta es probablemente la primera vez que el niñ@ se encuentre fuera de su núcleo familiar, puede ser la primera vez que se relacione con personas que no sean de su familia y en un entorno que desconoce y posiblemente sea el primer año que se incorpore a la escuela.  Para que esta situación se desarrolle con la mayor normalidad posible existen los periodos de adaptación.  En este periodo, un familiar acompañará al niñ@ durante el tiempo acordado con anterioridad.",
-    normasText2:"5 días lectivos",
+    normasText2:"6 días lectivos",
     normasText3:"La adaptación se presupone de 6 días, pero se adaptará a las necesidades de cada niño y cada familia.",
     normasText4:"Durante este proceso es importante la colaboración de las familias, que seguirán las siguientes indicaciones:",
     normasText5:"Para evitar posibles contagios o focos de infecciones no acudirán a la guardería los niños o niñas que presenten los siguientes síntomas",
@@ -97,9 +97,12 @@ export default {
     descargarText:"Descargar",
     ventajasText:"Ventajas",
     correoEnviadoText: "Correo Enviado",
-    texto1Index:"es un centro educativo y asistencial para niños de 0 a 3 años con instalaciones autorizadas por el Gobierno Vasco.",
+    texto1Index:"es un centro educativo y asistencial para niños de 0 a 3 años con instalaciones autorizadas por el Gobierno Vasco. Se encuentra ubicado en la ciudad de BARAKALDO, en el barrio de CRUCES",
     texto2Index:"El principal objetivo de las educadoras es el bienestar de los niños,por ello, haremos que los más pequeños se sientan seguros, queridos y aceptados dando mayor importancia al contacto afectivo para que desarrollen todo su potencial",
     blogText:"Blog",
+    volverText:"Volver",
+    EscuelaInfantilAmetsak:"Escuela Infantil Ametsak",
+    eventosText:"Eventos",
 
 
 

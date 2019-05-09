@@ -16,7 +16,7 @@
 
           <!-- Content -->
           <!--<h5 class="text-uppercase">Escuela Infantil Ametsak</h5>-->
-          <h6> Escuela Infantil Ametsak</h6>
+          <h6> {{ $t('EscuelaInfantilAmetsak') }}</h6>
           <img class="" src="~/assets/pajaros2.png" alt="Bulma">
         </div>
        

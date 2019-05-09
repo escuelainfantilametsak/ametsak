@@ -256,6 +256,7 @@ border:1px solid #eee;
 
 .tab-card-header {
 background:none;
+background-color: #9cfc97;
 }
 /* Default mode */
 .tab-card-header > .nav-tabs {

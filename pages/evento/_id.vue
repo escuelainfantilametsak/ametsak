@@ -1,17 +1,17 @@
 <template>
-  <div class="main-content">
+  <div class="container">
      <div class="navy-line"></div>
       <h1 class="h1">        
-         {{ $t('Filosofia') }}          
+         {{ $t('blogText') }}          
         </h1>
       <h2 class="subtitle">
-        {{ $t('welcome') }}
+        {{ post.title }}
       </h2>
-    <div class="container">
-      <h2 class="title is-2">{{ post.title }}</h2>
+    <div class="containerPost">
+      <h2 class="title is-2"></h2>
       <div v-html="post.content"></div>
-      <br>
-      <h4 class="title is-5 is-marginless">by <strong>{{ post.author }}</strong> at <strong>{{ post.published }}</strong></h4>
+      <nuxt-link class="btn btn-primary" :to="localePath('evento')"> {{ $t('volverText') }}</nuxt-link>
+      <br>      
     </div>
   </div>
 </template>

@@ -19,5 +19,7 @@ export default {
 </script>
 
 <style>
-
+.containerPost {
+    margin-bottom: 100px;
+}
 </style>

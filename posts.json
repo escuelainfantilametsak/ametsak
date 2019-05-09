@@ -2,18 +2,18 @@
     {
         "id": 2,
         "title": "Chocolatada",
-        "summary": "Get introduced to Nuxt.js, and build great SSR Apps with Vue.js.",
-        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "summary": "Tarde divertida con padres e hijos jugando",
+        "content": "<p> Chocolatada con nuestros pequeños en la guarderia </p><img src='https://firebasestorage.googleapis.com/v0/b/ametsakweb.appspot.com/o/fotos%2F2012_Chocolatada%2FIMG_Chocolatada_1.jpg?alt=media&token=65b2cb26-3fcb-41b1-956e-cd21b214e7c7' width='28%' class='img-fluid animated fadeIn'>",
         "author": "Jane Doe",
         "published": "Mayo 2012"
     },
     {
         "id": 1,
         "title": "Primeros auxilios",
-        "summary": "See simple and rich server-rendered JavaScript apps.",
-        "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>",
+        "summary": "Curso realizado en las instalaciones para padres",
+        "content": "<p>Curso realizado para padres de la guarderia que ayuda ante cualquier complicación que tengamos en casa puede ayudarnos en esos primeros minutos primordiales.</p>",
         "author": "Jane Doe",
-        "published": "17:00 - 06/06/2017"
+        "published": "Junio 2017"
     }
     
 ]

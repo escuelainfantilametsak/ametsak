@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+        <loc>https://escuelainfantilametsak.com</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.00</priority>
+   </url>
+    <url>
+        <loc>https://escuelainfantilametsak.com/solicitudmatricula</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+     <url>
+        <loc>https://escuelainfantilametsak.com/contacto</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+    <url>
+        <loc>https://escuelainfantilametsak.com/equipo</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+    <url>
+        <loc>https://escuelainfantilametsak.com/instalaciones</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+   <url>
+        <loc>https://escuelainfantilametsak.com/evento</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+   <url>
+        <loc>https://escuelainfantilametsak.com/normas</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+   <url>
+        <loc>https://escuelainfantilametsak.com/convenios</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.80</priority>
+   </url>
+  
+</urlset>

@@ -4,13 +4,13 @@
 
     <div class="navy-line"></div>
       <h1 class="h1">        
-         {{ $t('Filosofia') }}          
+         {{ $t('blogText') }}          
         </h1>
       <h2 class="subtitle">
-        {{ $t('welcome') }}
+        {{ $t('eventosText') }}
       </h2>
     <div class="box">
-        <div class="container">
+        <div class="containerPost">
             <div class="row">
 
             <div class="col-md-6"  v-for="post in posts.slice().reverse()" :key="post.id">

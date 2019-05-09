@@ -21,7 +21,7 @@ export default {
   normasTitle:"Arauak",
   normasSubTitle:"Egokitzapen-aldia",
   normasText1:"Hau da beharbada niñ@-a bere familiaren nukleotik kanpo aurkitzen den lehen aldian, bere familiaren eta ignoratzen duen ingurunean ez diren eta segur aski eskolari batzen zaion lehen urtea izan dadin pertsonekin harremanetan dagoen lehen aldia izan daiteke. Egoera|Leku hau normaltasun posible handienarekin gara dadila egokitzapen periodoetan daude. Periodo honetan, senide batek niñ@-ari lagunduko dio baino lehenago hitzartutako denboran|eguraldian zehar.",
-  normasText2:"5 eskola-egunetan",
+  normasText2:"6 eskola-egunetan",
   normasText3:"Egokitzapena 6 eguneko eskatzen da, baina moldatuko da haur bakoitzaren eta familia bakoitzaren beharretara.",
   normasText4:"Prozesu honetan zehar garrantzitsua da familien kolaborazioa, hurrengo seinaleei jarraituko dietenen:",
   normasText5:"Kutsatze posibleak edo infekzio-fokuak saihesteko umea edo hurrengo sintomak aurkezten dituzten neskarik ez da haurtzaindegira joango",
@@ -100,4 +100,7 @@ export default {
   texto1Index:"heziketa eta asistentziala zentroa da umeentzat Eusko Jaurlaritzak baimendutako instalazioekiko 0 eta 3 urte bitartean.",
   texto2Index:"Hezitzaileen printzipal objektiboa niños,por-en ongizatea da hura, eragingo dugu txikienak senti daitezela seguru, maite eta bere potentzial guztia gara dezatela kontaktu txeratsuari garrantzi handiagoa emanez onartuta",
   blogText:"Blog",
+  volverText:"Volver",
+  EscuelaInfantilAmetsak:"Haur Eskola Ametsak",
+  eventosText:"Eventos",
   }
