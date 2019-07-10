@@ -16,13 +16,13 @@
         <img class="my-0 mr-md-auto font-weight-normal" src="~/assets/logo.png" alt="Bulma">
         
         <nav class="nav nav-masthead justify-content-center">
-                <nuxt-link class="nav-link" :to="localePath('index')"> {{ $t('navIni') }}</nuxt-link>
+                <nuxt-link class="nav-link" :to="localePath('index')" exact> {{ $t('navIni') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('contacto')"> {{ $t('navCon') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('equipo')"> {{ $t('navEqu') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('servicios')"> {{ $t('navSer') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('instalaciones')"> {{ $t('navIns') }}</nuxt-link>
                 <nuxt-link class="nav-link" :to="localePath('evento')"> {{ $t('blogText') }}</nuxt-link>
-                
+              
                 <!--<nuxt-link class="nav-link" :to="localePath('login')"> {{ $t('navLog') }}</nuxt-link>-->
         </nav>
         
@@ -126,6 +126,10 @@
 }
 
 nav .nuxt-link-exact-active{
+        border-bottom: 6px solid #974eca;
+}
+
+nav .nuxt-link-active{
         border-bottom: 6px solid #974eca;
 }
 .pusuario{

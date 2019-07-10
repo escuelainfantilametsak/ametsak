@@ -37,6 +37,16 @@
   font-family: 'Fredoka One', cursive;
 }
 
+.subtitle_small
+{
+  font-weight: 100;
+  font-size: 16px;
+  color: #ffb300;
+  word-spacing: 5px;
+  padding-bottom: 15px;
+  font-family: 'Fredoka One', cursive;
+}
+
 .img-small {
     height: 88px;
     width: 88px;
@@ -132,6 +142,9 @@ font-weight: bold;
 color: #6a1b9a;
 
 }
+.linkmapacontacto_naranja {
+  color: #ffb300;
+}
 
 .linkCalendario:hover{
   color: #00e676;
@@ -180,6 +193,11 @@ color: #6a1b9a;
   margin-left: 35px;
   transition: .3s;
 }
+.services-inner-naranja {
+  border: 2px solid #ffb300;
+  margin-left: 35px;
+  transition: .3s;
+}
 .our-services-img {
   float: left;
   margin-left: -36px;
@@ -193,6 +211,14 @@ color: #6a1b9a;
   overflow: hidden;
   padding: 28px 0 25px;
 }
+
+.mapaminiatura {
+  overflow: hidden;
+  padding: 28px 0 25px;
+  height: 200px;
+}
+
+
 .our-services-text h4 {
   color: #222222;
   font-size: 18px;
