@@ -29,7 +29,7 @@
                   </span>
 							
 								</div>
-								<div class="our-services-text">
+								<div class="our-services-text-grande">
 									<h4>Cruces</h4>                 
 								  <nuxt-link class="linkSolitudMatricula" :to="localePath({ name:'contacto-cruces'})">{{ $t('subInstalacion') }}
                   <span class="fa-stack fa-2x">
@@ -47,23 +47,23 @@
 							</div>
 						</div>
 
-	          <div class="our-services-wrapper mb-60">
-							<div class="services-inner">
+	          <!-- <div class="our-services-wrapper mb-60">
+							<div class="services-inner-verde"> -->
+							
 
                 <!-- icono izquierda -->
-                <div class="our-services-img">
+               <!-- <div class="our-services-img">
                   <span class="fa-stack fa-2x">
-                    <i class="fas fa-circle fa-stack-2x linkmapacontacto"></i>                   
+                    <i class="fas fa-circle fa-stack-2x linkmapacontacto-verde"></i>                   
                     <i class="far fa-building fa-stack-1x fa-inverse"></i>
                   </span>
-							
-								</div>
+								</div>-->
 								
                 <!-- detalle texto -->
-								<div class="our-services-text">
+							<!--	<div class="our-services-text-grande">
 									<h4>Barakaldo Centro</h4>
                    <h5 class="subtitle_small">
-                        Apertura Febrero 2020
+                        Apertura Marzo 2020
                   </h5>
                    <nuxt-link class="linkSolitudMatricula" :to="localePath({ name:'contacto-barakaldo'})">{{ $t('subInstalacion') }}
                   <span class="fa-stack fa-2x">
@@ -73,22 +73,14 @@
                   </nuxt-link>
                 
 								
-								</div>
+								</div>-->
                 <!-- Mapa -->
-                	<div class="mapaminiatura">
+                <!-- 	<div class="mapaminiatura">
                       <mapagoogle2/>
                     	</div>
-							</div>
-             
-						  </div>
-
-
-
+							</div>             
+						  </div>--> 
          </div> 
-       
-
-  
-
      </div>
       
 </div>

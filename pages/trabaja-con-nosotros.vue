@@ -20,7 +20,7 @@
         <div class="col-md-8">
 
 
-                <div class="card card-pricing popular shadow text-center px-3 mb-4">
+              <!--  <div class="card card-pricing popular shadow text-center px-3 mb-4">
                     <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-ametsakVerde text-black shadow-sm">2 Puestos Disponibles</span> 
                      
                     <p class="text-justify">Tenemos 2 puestos vacantes para trabajar en la Escuela Infantil Ametsak. Envianos un correo a nuestro email o llamanos para explicarte las condiciones y concertar una entrevista.</p> 
@@ -29,7 +29,7 @@
                         <li><a href="tel:946086394"><i class="fas fa-phone"></i> 94 608 63 94</a></li>
                     </ul>
 
-                  </div>
+                  </div> -->
 
 
 

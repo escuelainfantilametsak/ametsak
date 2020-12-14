@@ -60,9 +60,10 @@ Las experiencias en la guardería fomentarán su imaginación y creatividad.</p>
 								<div class="our-services-text">
 									<h4>{{ $t('titleInstalacion') }}</h4>
 									<nuxt-link class="linkSolitudMatricula" :to="localePath('instalaciones')">{{ $t('subInstalacion') }}</nuxt-link> 
-								</div>
-							</div>
-						</div>
+								</div>                
+							</div>              
+						</div>  
+            
 				</div>
 
 <!-- Solicitud matricula -->

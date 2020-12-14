@@ -17,7 +17,9 @@
           <!-- Content -->
           <!--<h5 class="text-uppercase">Escuela Infantil Ametsak</h5>-->
           <h6> {{ $t('EscuelaInfantilAmetsak') }}</h6>
-          <img class="" src="~/assets/pajaros2.png" alt="Bulma">
+          <img class="" src="~/assets/pajaros2.png" alt="Bulma">          
+          <img src="~/assets/todo_pie.jpg" alt="Girl in a jacket" width="150" height="100">          
+            
         </div>
        
         <!-- Grid column -->
@@ -41,6 +43,9 @@
               </li>
                <li>
                  <nuxt-link :to="localePath('normas')">Normas</nuxt-link>
+              </li>
+              <li>
+                 <nuxt-link :to="localePath('agendavirtual')">Agenda Virtual</nuxt-link>
               </li>
             </ul>
           </div>

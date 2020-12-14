@@ -146,6 +146,14 @@ color: #6a1b9a;
   color: #ffb300;
 }
 
+.linkmapacontacto-verde{
+  color: #00e676;  
+}
+.linkmapacontacto-verde:hover{
+  color: #6a1b9a;
+  font-weight: bold;
+  }
+
 .linkCalendario:hover{
   color: #00e676;
   font-weight: bold;
@@ -193,6 +201,11 @@ color: #6a1b9a;
   margin-left: 35px;
   transition: .3s;
 }
+.services-inner-verde {
+  border: 2px solid #00e676;
+  margin-left: 35px;
+  transition: .3s;
+}
 .services-inner-naranja {
   border: 2px solid #ffb300;
   margin-left: 35px;
@@ -211,10 +224,17 @@ color: #6a1b9a;
   overflow: hidden;
   padding: 28px 0 25px;
 }
+.our-services-text-grande {
+  padding-right: 10px;
+}
+.our-services-text-grande {
+  overflow: hidden;
+  padding: 28px 0 25px;
+}
 
 .mapaminiatura {
   overflow: hidden;
-  padding: 28px 0 25px;
+  padding: 10px 0 25px;
   height: 200px;
 }
 
@@ -237,14 +257,47 @@ color: #6a1b9a;
   position: absolute;
   width: 35px;
 }
+
+.our-services-text-grande h4 {
+  color: #222222;
+  font-size: 25px;
+  font-weight: 20;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  padding-bottom: 10px;
+  position: relative;
+  text-transform: uppercase;
+  font-family: 'Fredoka One', cursive;
+}
+
+.our-services-text-grande h4::before {
+  background: #9cfc97 none repeat scroll 0 0;
+  bottom: 0;
+  content: "";
+  height: 1px;
+  position: absolute;
+  width: 35px;
+}
+
+.our-services-text-grande p {
+  margin-bottom: 0;
+}
+.our-services-text p {
+  margin-bottom: 0;
+}
+
+.our-services-wrapper:hover .services-inner-verde {
+  background: #fff none repeat scroll 0 0;
+  border: 2px solid transparent;
+  box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
+}
+
 .our-services-wrapper:hover .services-inner {
   background: #fff none repeat scroll 0 0;
   border: 2px solid transparent;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
 }
-.our-services-text p {
-  margin-bottom: 0;
-}
+
 p {
   font-size: 14px;
   font-weight: 400;
@@ -310,6 +363,18 @@ padding: 2px 15px;
 
 .tab-card-header > .tab-content {
 padding-bottom: 0;
+}
+
+.title_medio{
+  color: #6a1b9a;
+  font-size: 19px;
+  font-weight: 20;
+  letter-spacing: 1px;
+  margin-bottom: 8px;
+  padding-bottom: 10px;
+  position: relative;
+  text-transform: uppercase;
+  font-family: 'Fredoka One', cursive;
 }
   
 

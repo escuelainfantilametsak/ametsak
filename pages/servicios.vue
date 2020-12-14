@@ -42,7 +42,7 @@
                 <ul class="list-group listcustom mx-auto">    
                         <li class="list-group-item d-flex justify-content-between align-items-center fredaFont">
                             {{ $t('serviciosTex4') }}
-                            <a href="Calendario2018_19.pdf" class="linkCalendario"><i class="far fa-file-pdf fa-2x"></i></a>
+                            <a href="Calendario.pdf" class="linkCalendario"><i class="far fa-file-pdf fa-2x"></i></a>
                 
                         </li> 
             </ul>
@@ -152,7 +152,7 @@
             
               <div class="team-member">
                   <img src="~/assets/language.png" class="img-responsive img-circle img-small" alt="">
-                  <h4><i class=""></i><a href="#projects"><span class="navy">{{ $t('serviciosTex6') }}</span></a></h4>
+                   <h4 class="title_medio">{{ $t('serviciosTex6') }}</h4>                  
                   <p class="text-justify"><span data-i18n="projects.saplatform">{{ $t('serviciosTex7') }}</span></p>
                   
               </div>
@@ -163,8 +163,8 @@
             <div class="col-sm-6 wow  fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
             
               <div class="team-member">
-                  <img src="~/assets/becas.png" class="img-responsive img-circle img-small" alt="">
-                  <h4><i class=""></i><a href="#projects"><span class="navy">{{ $t('serviciosTex8') }}</span></a></h4>
+                  <img src="~/assets/becas.png" class="img-responsive img-circle img-small" alt="">                  
+                  <h4 class="title_medio">{{ $t('serviciosTex8') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.jalpc">{{ $t('serviciosTex9') }}</span></p>
                   
               </div>
@@ -175,8 +175,8 @@
             <div class="col-sm-6 wow  fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
             
               <div class="team-member">
-                  <img src="~/assets/logotipoGV_2.png" class="img-responsive img-circle img-small" alt="">
-                  <h4><i class=""></i><a href="#projects"><span class="navy">{{ $t('serviciosTex10') }}</span></a></h4>
+                  <img src="~/assets/logotipoGV_2.png" class="img-responsive img-circle img-small" alt="">                  
+                  <h4 class="title_medio">{{ $t('serviciosTex10') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.angularjs">{{ $t('serviciosTex11') }}</span></p>
                   
               </div>
@@ -186,8 +186,8 @@
                 
             
               <div class="team-member">
-                  <img src="~/assets/blocks.png" class="img-responsive img-circle img-small" alt="">
-                  <h4><i class=""></i><a href="#projects"><span class="navy">{{ $t('serviciosTex12') }}</span></a></h4>
+                  <img src="~/assets/blocks.png" class="img-responsive img-circle img-small" alt="">                 
+                  <h4 class="title_medio">{{ $t('serviciosTex12') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.rsser">{{ $t('serviciosTex13') }}</span></p>
                   
               </div>
