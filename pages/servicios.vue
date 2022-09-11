@@ -3,10 +3,10 @@
 
  <section class="container">
             <div class="navy-line"></div>
-            <h1 class="h1">        
-                  {{ $t('titleservicios') }}       
+            <h1 class="h1">
+                  {{ $t('titleservicios') }}
                 </h1>
-        
+
 </section>
 
 
@@ -15,7 +15,7 @@
 <div class="container col-lg-10" id="i18_skills">
     <div class="row">
         <div class="col-lg-12 text-center">
-          
+
              <h2 class="subtitle">
                 {{ $t('subHorario') }}
                 </h2>
@@ -25,32 +25,32 @@
 
 
     <div class="row">
-    
-        
+
+
             <p class="text-justify">
                 <span >{{ $t('serviciosTex1') }}</span>
-                <span class="resaltar" >{{ $t('serviciosTex2') }}</span>                
+                <span class="resaltar" >{{ $t('serviciosTex2') }}</span>
                 <span > {{ $t('serviciosTex3') }}
                 </span>
             </p>
-            
-         
+
+
     </div>
 
       <div class="row">
 
-                <ul class="list-group listcustom mx-auto">    
+                <ul class="list-group listcustom mx-auto">
                         <li class="list-group-item d-flex justify-content-between align-items-center fredaFont">
                             {{ $t('serviciosTex4') }}
-                            <a href="Calendario.pdf" class="linkCalendario"><i class="far fa-file-pdf fa-2x"></i></a>
-                
-                        </li> 
+                            <a href="Calendario2023.pdf" class="linkCalendario"><i class="far fa-file-pdf fa-2x"></i></a>
+
+                        </li>
             </ul>
-          
-           
+
+
 </div>
-     
-   
+
+
      <div class="row">
        <p class="text-justify">{{ $t('serviciosTex5') }}</p> <span class="resaltar" > 7:30 a 19:15 </span>
     </div>
@@ -124,13 +124,13 @@
                 </div>
     </div>
 
-    
 
-        
 
-       
 
-  
+
+
+
+
 </div>
 
 </section>
@@ -145,54 +145,54 @@
         </div>
     </div>
     <div class="row">
-        
-            
-            
+
+
+
             <div class="col-sm-6 wow  fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-            
+
               <div class="team-member">
                   <img src="~/assets/language.png" class="img-responsive img-circle img-small" alt="">
-                   <h4 class="title_medio">{{ $t('serviciosTex6') }}</h4>                  
+                   <h4 class="title_medio">{{ $t('serviciosTex6') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.saplatform">{{ $t('serviciosTex7') }}</span></p>
-                  
+
               </div>
           </div>
-      
-            
-            
+
+
+
             <div class="col-sm-6 wow  fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-            
+
               <div class="team-member">
-                  <img src="~/assets/becas.png" class="img-responsive img-circle img-small" alt="">                  
+                  <img src="~/assets/becas.png" class="img-responsive img-circle img-small" alt="">
                   <h4 class="title_medio">{{ $t('serviciosTex8') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.jalpc">{{ $t('serviciosTex9') }}</span></p>
-                  
+
               </div>
           </div>
-      
-            
-            
+
+
+
             <div class="col-sm-6 wow  fadeInLeft" style="visibility: visible; animation-name: fadeInLeft;">
-            
+
               <div class="team-member">
-                  <img src="~/assets/logotipoGV_2.png" class="img-responsive img-circle img-small" alt="">                  
+                  <img src="~/assets/logotipoGV_2.png" class="img-responsive img-circle img-small" alt="">
                   <h4 class="title_medio">{{ $t('serviciosTex10') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.angularjs">{{ $t('serviciosTex11') }}</span></p>
-                  
+
               </div>
           </div>
-                
+
             <div class="col-sm-6 wow  fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
-                
-            
+
+
               <div class="team-member">
-                  <img src="~/assets/blocks.png" class="img-responsive img-circle img-small" alt="">                 
+                  <img src="~/assets/blocks.png" class="img-responsive img-circle img-small" alt="">
                   <h4 class="title_medio">{{ $t('serviciosTex12') }}</h4>
                   <p class="text-justify"><span data-i18n="projects.rsser">{{ $t('serviciosTex13') }}</span></p>
-                  
+
               </div>
           </div>
-      
+
     </div>
 </div>
 <br>

@@ -1,11 +1,11 @@
 <template>
 <div class="container">
-<!-- <div class="col-md-12">    
-            <img src="~/assets/workflow2.png" class="img-fluid animated fadeIn" alt="logo">         
+<!-- <div class="col-md-12">
+            <img src="~/assets/workflow2.png" class="img-fluid animated fadeIn" alt="logo">
         </div> -->
 <div class="navy-line"></div>
-            <h1 class="h1">        
-                  {{ $t('titleSolicitud') }}       
+            <h1 class="h1">
+                  {{ $t('titleSolicitud') }}
                 </h1>
                 <!-- <h1 class="title">
                   {{ $t('titleContacto') }}
@@ -13,18 +13,18 @@
                 <h2 class="subtitle">
                 {{ $t('subSolicitud') }}
                 </h2>
- <div class="row justify-content-md-center">       
+ <div class="row justify-content-md-center">
 
 
  <div class="col col-lg-9">
-     
-    
+
+
   <nav aria-label="breadcrumb" class="mb-5">
     <ol class="breadcrumb">
       <li class="breadcrumb-item active" aria-current="page">{{ $t('solMatTex1') }}</li>
     </ol>
-    <p style="margin-bottom: 25px; text-align: center; "> {{ $t('solMatTex2') }}  (<a class="resaltarLink" href="tel://946086394">946 086 394</a>) </p> 
-      <nuxt-link class="linkmapacontacto" :to="localePath('contacto')"><i class="fas fa-map-marked-alt fa-2x"></i></nuxt-link> 
+    <p style="margin-bottom: 25px; text-align: center; "> {{ $t('solMatTex2') }}  (<a class="resaltarLink" href="tel://946086394">946 086 394</a>) </p>
+      <nuxt-link class="linkmapacontacto" :to="localePath('contacto')"><i class="fas fa-map-marked-alt fa-2x"></i></nuxt-link>
 
   </nav>
 
@@ -38,24 +38,24 @@
   <div class="container">
   <div class="row justify-content-center">
       <div class="col-md-8 bg-white rounded shadow-sm">
-          
+
           <div class="media text-muted pt-3">
-          
-            <p class="media-body pb-3 mb-0 align-items-center lh-125 border-bottom border-gray">            
+
+            <p class="media-body pb-3 mb-0 align-items-center lh-125 border-bottom border-gray">
             {{ $t('solMatTex8') }}
             </p>
             <i class="fas fa-print fa-2x"></i>
           </div>
           <div class="media text-muted pt-3">
-            
-            <p class="media-body pb-3 mb-0  lh-125 border-bottom border-gray">            
+
+            <p class="media-body pb-3 mb-0  lh-125 border-bottom border-gray">
               {{ $t('solMatTex9') }}
             </p>
             <i class="fas fa-print fa-2x"></i>
           </div>
           <div class="media text-muted pt-3">
-          
-            <p class="media-body pb-3 mb-0  lh-125 border-bottom border-gray">            
+
+            <p class="media-body pb-3 mb-0  lh-125 border-bottom border-gray">
               {{ $t('solMatTex10') }}
             </p>
             <a href="/formularioonline" class="linkmapacontacto"><i class="far fa-file-pdf fa-2x"></i></a>
@@ -83,8 +83,8 @@
     <li class="list-group-item d-flex justify-content-between align-items-center">
       {{ $t('solMatTex10') }}
       <a href="SOLICITUD_DE_MATRICULAS.pdf" class="linkmapacontacto"><i class="far fa-file-pdf fa-2x"></i></a>
-      
-    </li> 
+
+    </li>
   </ul> -->
   </nav>
 
@@ -96,41 +96,41 @@
     </ol>
 
 
-  
+
   <div class="container">
     <div class="row justify-content-center">
-    
-    
+
+
 
       <div class="col-md-6">
           <div class="card mb-4 text-black">
               <img class="card-img" src="~/assets/gift.svg" alt="Card image">
               <div class="card-img-overlay">
                 <h5 class="card-title">{{ $t('RecibeTupackBienvenida') }}</h5>
-                <p class="card-text"> <i class="fas fa-heart" style="color:red"></i></p>               
+                <p class="card-text"> <i class="fas fa-heart" style="color:red"></i></p>
               </div>
           </div>
         </div>
-      
+
     </div>
 
 
-      
+
   </div>
-  
-    
+
+
 
   <div class="row">
-    
+
             <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12">
               <div class="our-services-wrapper mb-60">
                 <div class="services-inner">
                   <div class="our-services-img">
                     <span class="fa-stack fa-2x linkmapacontacto">
-                      <i class="fas fa-circle fa-stack-2x"></i>                   
+                      <i class="fas fa-circle fa-stack-2x"></i>
                       <i class="fas fa-clipboard-list fa-stack-1x fa-inverse"></i>
                     </span>
-                
+
                   </div>
                   <div class="our-services-text">
                     <h4>{{ $t('normasTitle') }}</h4>
@@ -146,14 +146,14 @@
                 <div class="services-inner">
                   <div class="our-services-img">
                     <span class="fa-stack fa-2x linkmapacontacto">
-                      <i class="fas fa-circle fa-stack-2x"></i>                   
+                      <i class="fas fa-circle fa-stack-2x"></i>
                       <i class="far fa-file-pdf fa-stack-1x fa-inverse"></i>
                     </span>
-                
+
                   </div>
                   <div class="our-services-text">
                     <h4>{{ $t('calendarioText') }}</h4>
-                  <a href="/Calendario2018_19.pdf" class="linkSolitudMatricula">{{ $t('descargarText') }}</a>
+                  <a href="/Calendario2023.pdf" class="linkSolitudMatricula">{{ $t('descargarText') }}</a>
                   </div>
                 </div>
               </div>
@@ -165,10 +165,10 @@
                 <div class="services-inner">
                   <div class="our-services-img">
                     <span class="fa-stack fa-2x linkmapacontacto">
-                      <i class="fas fa-circle fa-stack-2x"></i>                    
+                      <i class="fas fa-circle fa-stack-2x"></i>
                       <i class="fas fa-smile-beam fa-stack-1x fa-inverse"></i>
                     </span>
-                
+
                   </div>
                   <div class="our-services-text">
                     <h4>{{ $t('ventajasText') }}</h4>
@@ -178,12 +178,12 @@
               </div>
             </div>
 
-      
+
     </div>
 
 
 
-  
+
   </nav>
 
 </div><!--  fin del container lg -->
@@ -192,7 +192,7 @@
 </template>
 
 <style>
-.breadcrumb-item+.breadcrumb-item::before {    
+.breadcrumb-item+.breadcrumb-item::before {
     content: "->";
 }
 

@@ -17,11 +17,11 @@
           <!-- Content -->
           <!--<h5 class="text-uppercase">Escuela Infantil Ametsak</h5>-->
           <h6> {{ $t('EscuelaInfantilAmetsak') }}</h6>
-          <img class="" src="~/assets/pajaros2.png" alt="Bulma">          
-          <img src="~/assets/todo_pie.jpg" alt="Girl in a jacket" width="150" height="100">          
-            
+          <img class="" src="~/assets/pajaros2.png" alt="Bulma">
+          <img src="~/assets/todo_pie.jpg" alt="Girl in a jacket" width="150" height="100">
+
         </div>
-       
+
         <!-- Grid column -->
         <hr class="clearfix w-100 d-md-none pb-3">
         <!-- Grid column -->
@@ -30,10 +30,10 @@
             <h5 class="text-uppercase">Links</h5>
             <ul class="list-unstyled">
               <li>
-                  <nuxt-link :to="localePath('trabaja-con-nosotros')">Trabaja con Nosotros</nuxt-link>  
+                  <nuxt-link :to="localePath('trabaja-con-nosotros')">Trabaja con Nosotros</nuxt-link>
               </li>
               <li>
-                <nuxt-link :to="localePath('solicitudmatricula')">Solicitar matricula</nuxt-link>                
+                <nuxt-link :to="localePath('solicitudmatricula')">Solicitar matricula</nuxt-link>
               </li>
               <li>
                 <nuxt-link :to="localePath('equipo')">Equipo</nuxt-link>
@@ -63,24 +63,24 @@
               </li>
               <li>
                 <a href="https://www.facebook.com/escuela.ametsak"><i class="fab fa-facebook-f"></i> Ametsak Facebook</a>
-              </li>             
+              </li>
             </ul>
 
           </div>
-      
+
 				<div class="col-xs-12 col-sm-12 col-md-12 mt-2 mt-sm-5">
 					<ul class="list-unstyled list-inline social text-center">
 						<li class="list-inline-item"><a href="https://www.facebook.com/escuela.ametsak"><i class="fab fa-facebook-f fa-2x"></i></a></li>
 						<li class="list-inline-item"><a href="javascript:void();"><i class="fab fa-linkedin fa-2x"></i></a></li>
-						<li class="list-inline-item"><a href="javascript:void();"><i class="fab fa-instagram fa-2x"></i></a></li>						
+						<li class="list-inline-item"><a href="https://www.instagram.com/escuelainfantilametsak/"><i class="fab fa-instagram fa-2x"></i></a></li>
 						<li class="list-inline-item"><nuxt-link :to="localePath('contacto')"><i class="fa fa-envelope fa-2x"></i></nuxt-link></li>
 					</ul>
-				</div>				
+				</div>
 			</div>
     </div>
     <!-- Copyright -->
     <div class="footer-copyright text-center py-3">© 2018 Copyright:
-      
+
        <img class="icofooter" src="~/assets/Jack.png" alt="Bulma">
     </div>
     <!-- Copyright -->
@@ -99,7 +99,7 @@
 .fgreen {
     /* background-color: #1de9b6!important; */
     background-color: #E6fafc!important;
-     
+
 }
 
 .fmorado {
@@ -126,10 +126,10 @@ footer a:hover{
     font-weight: bold;
 }
 
-footer a:link 
-{ 
-    text-decoration:none; 
-} 
+footer a:link
+{
+    text-decoration:none;
+}
 
 h6{
   font-family: 'Pacifico', cursive;

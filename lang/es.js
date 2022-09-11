@@ -9,7 +9,7 @@ export default {
     titleSolicitud:"Solicitud Matricula",
     subSolicitud:"Pasos",
     titleservicios:"Servicios",
-    subHorario:"Horario 20/21",
+    subHorario:"Horario 22/23",
     subServicio:"Actividades",
     titleInstalacion:"Instalaciones",
     subInstalacion:"Información",

@@ -9,7 +9,7 @@ export default {
   titleSolicitud:"Matricula Eskaera",
   subSolicitud:"Pausoak",
   titleservicios:"Zerbitzuak",
-  subHorario:"Ordutegia 20/21",
+  subHorario:"Ordutegia 22/23",
   subServicio:"Jarduerak",
   titleInstalacion:"Instalazioak",
   subInstalacion:"Informazioa",
